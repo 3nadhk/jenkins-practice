@@ -6,7 +6,7 @@ pipeline {
     stages {
         stage('Build') {
             steps {
-                echo 'Building..'  
+                echo 'Building..the build in Jen'  
             }
         }
         stage('Test') {
